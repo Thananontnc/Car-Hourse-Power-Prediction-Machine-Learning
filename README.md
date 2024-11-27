@@ -1,4 +1,4 @@
-#Car horsepower prediction by using machine learning (R)
+# Car horsepower prediction by using machine learning (R)
 The primary objective of our research is to employ our knowledge of R and analyze the
 relationship between horsepower and car prices while moderating the body types of cars. We will
 analyze our dataset sourced from Kaggle.com in R studio, which provides a rich base for
